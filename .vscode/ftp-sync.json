@@ -1,0 +1,19 @@
+{
+    "remotePath": "/var/www/html",
+    "host": "kimmyy.com",
+    "username": "kimwah",
+    "password": "C0nfigur4t0r",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}
